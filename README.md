@@ -1,4 +1,4 @@
-# Fashion-trend-forcasting
+
 # Fashion Trend Forecasting
 
 ## Project Overview
